@@ -29,10 +29,10 @@ export const homeObjTwo = {
   headline: "Login to your account at any time",
   description:
     "We have you covered no matter where you are located. All you need is an internet connection and phone or computer.",
-  buttonLabel: "Lern More",
+  buttonLabel: "Learn More",
   imgStart: true,
   img: SvgImg2,
-  alt: "Piggybank",
+  alt: "Ib bank",
   dark: false,
   primary: false,
   darkText: true,
@@ -46,7 +46,7 @@ export const homeObjThree = {
   topLine: "Join our Team",
   headline: "Creating an account is extremely easy",
   description:
-    "Get everything set up and redy in under 10 minutes. All you need to do is add your information  and you're ready to go.",
+    "Get everything set up and ready in under 10 minutes. All you need to do is add your information  and you're ready to go.",
   buttonLabel: "Start Now",
   imgStart: false,
   img: SvgImg3,
